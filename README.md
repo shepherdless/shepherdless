@@ -3,7 +3,6 @@
 
 ### I'm [Axel Grullón](https://github.com/sh4dow-s0urcer), a (soon-to-be) Software Engineer.
 
-- 👨‍💻 Currently working on web development technologies Python, JavaScript, CSS etc.
 - 📚 Trying to learn everything about Frontend and Backend technologies 😉
 - ⚡ Fun fact: I love chocolate.
 
