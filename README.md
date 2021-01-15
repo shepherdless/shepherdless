@@ -38,10 +38,6 @@
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dow-s0urcer&hide=css,java,html&theme=gotham">
 
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sh4dow-s0urcer)](https://github.com/sh4dow-s0urcer/github-profile-trophy) 
-
 </details>
 
 <p align="center">
