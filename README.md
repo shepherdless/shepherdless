@@ -11,7 +11,7 @@
 
 [![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wXEKxj2vNA)
 
-## Technology Stack
+## Technology Stack 💻
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://www.google.com/search?q=nodejs)
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.google.com/search?q=pythonlang)
@@ -22,10 +22,11 @@
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.google.com/search?q=mongodb)
 [![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)](https://www.google.com/search?q=apache)
 
-## Learning
+## Learning 📚
 [![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.google.com/search?q=java)
 [![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.google.com/search?q=mysql)
 [![](https://img.shields.io/badge/Electron-171C2D?&style=for-the-badge&logo=electron&logoColor=white)](https://www.google.com/search?q=electronjs)
+[![](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://www.google.com/search?q=ruby)
 
 <details>
 
