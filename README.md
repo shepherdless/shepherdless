@@ -5,6 +5,7 @@
 
 - 📚 Trying to learn everything about Frontend and Backend technologies 😉
 - ⚡ Fun fact: I love chocolate.
+- 🌑 Even GitHub agrees the dark side is better.
 
 
 ## Discord Server
@@ -30,7 +31,7 @@
 
 <details>
 
-<summary><b> My GitHub Activity 😎</b>: </summary>
+<summary><b>My GitHub Activity</b>: </summary>
 
 <p align="center">
   
