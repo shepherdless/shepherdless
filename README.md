@@ -33,9 +33,9 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=sh4dow-s0urcer&show_icons=true&theme=gotham" alt="sh4dow-s0urcer" />
+<img src="https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&theme=gotham" alt="shepherdless" />
 <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dow-s0urcer&hide=css,java,html&theme=gotham">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shepherdless&hide=css,java,html&theme=gotham">
 
 </details>
 
@@ -47,4 +47,4 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{sh4dow-s0urcer}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{shepherdless}/count.svg)
