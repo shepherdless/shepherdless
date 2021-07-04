@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" />
 
 
 ### I'm [Axel Grullón](https://github.com/sh4dow-s0urcer), a (soon-to-be) Software Engineer.
