@@ -3,7 +3,7 @@
 
 ### I'm [Axel Grullón](https://github.com/sh4dow-s0urcer), a (soon-to-be) Software Engineer.
 
-- 📚 Trying to learn everything about Frontend and Backend technologies 😉
+- 📚 Trying to learn everything about front-end and back-end technologies 😉
 - ⚡ Fun fact: I love chocolate.
 - 🌑 Even GitHub agrees the dark side is better.
 
