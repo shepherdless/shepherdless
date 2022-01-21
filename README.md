@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" height="160px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" />
 
 
-### I'm [Axel Grullón](https://github.com/sh4dow-s0urcer), a (soon-to-be) Software Engineer.
+### I'm [Axel Grullón](https://github.com/shepherdless), a (soon-to-be) Software Engineer.
 
 - 📚 Trying to learn everything about front-end and back-end technologies 😉
 - ⚡ Fun fact: I love chocolate.
