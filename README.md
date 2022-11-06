@@ -1,11 +1,11 @@
 <img align="right" alt="GIF" height="160px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" />
 
 
-### I'm [Axel Grullón](https://github.com/shepherdless), a (soon-to-be) Software Engineer.
+### I'm [Axel Grullón](https://github.com/shepherdless), a Software Engineer.
 
-- 📚 Trying to learn everything about front-end and back-end technologies 😉
-- ⚡ Fun fact: I love chocolate.
-- 🌑 Even GitHub agrees the dark side is better.
+- 📚 I'm trying to learn `everything` about front-end and back-end technologies. 😉
+- ⚡ `Here is a fun fact about me`: I love chocolate.
+- 🌑 Even `GitHub` agrees the dark side is better.
 
 
 ## Discord Server
@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/squwCYNKWC)
 
 ## Technology Stack 💻
+[![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.google.com/search?q=typescript)
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://www.google.com/search?q=nodejs)
 [![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.google.com/search?q=pythonlang)
@@ -22,6 +23,7 @@
 [![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.google.com/search?q=bootstrap)
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.google.com/search?q=mongodb)
 [![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)](https://www.google.com/search?q=apache)
+[![](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.google.com/search?q=latex)
 
 ## Learning 📚
 [![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.google.com/search?q=java)
