@@ -4,7 +4,7 @@
 ### I'm [Axel Grullón](https://github.com/shepherdless), a Software Engineer.
 
 - 📚 I'm trying to learn `everything` about front-end and back-end technologies. 😉
-- ⚡ `Here is a fun fact about me`: I love chocolate.
+- ⚡ Here is a `fun fact` about me: I love chocolate.
 - 🌑 Even `GitHub` agrees the dark side is better.
 
 
