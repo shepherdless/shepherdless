@@ -33,10 +33,9 @@
 
 <details>
 
-<summary><b>My GitHub Activity</b>: </summary>
-
+<summary><b>GitHub stats</b>: </summary>
 <p align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&theme=gotham" alt="shepherdless" />
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shepherdless&hide=css,java,html&theme=gotham">
@@ -45,10 +44,17 @@
 
 <p align="center">
 
+<summary><b>Random dev joke</b>: </summary>
+<p align="center">
 </br>
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<p align="center">
 
-#### Profile views counter
+<summary><b>Visitors badge</b>: </summary>
+<p align="center">
+
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
+<p align="center">
