@@ -44,6 +44,9 @@
 
 <p align="center">
 
+
+<details>
+
 <summary><b>Random dev joke</b>: </summary>
 <p align="center">
 </br>
@@ -52,9 +55,15 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 <p align="center">
 
+</details>
+
+
+<details>
+
 <summary><b>Visitors badge</b>: </summary>
 <p align="center">
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <p align="center">
+</details>
