@@ -14,38 +14,33 @@
 
 ## 🌐 Community
 
-### Discord Server
+<p align="center">
 
-[![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/squwCYNKWC)
+<a href="https://discord.gg/squwCYNKWC">
+<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+</a>
+
+</p>
 
 ---
 
-## 💻 Technology Stack
+## 💻 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,html,css,react,bootstrap,mongodb" />
 
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
-
-![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-171C2D?&style=for-the-badge&logo=electron&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,electron,ruby" />
+
+</p>
 
 ---
 
@@ -53,7 +48,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shepherdless&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -64,15 +59,22 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com/?user=shepherdless&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-📦 **Kiki-bot**  
-An old Discord project focused on creating a multi-purpose bot in Javascript.
+<p align="center">
+
+<a href="https://github.com/shepherdless/kiki-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shepherdless&repo=kiki-bot&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
