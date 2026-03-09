@@ -31,28 +31,3 @@
 [![](https://img.shields.io/badge/Electron-171C2D?&style=for-the-badge&logo=electron&logoColor=white)](https://www.google.com/search?q=electronjs)
 [![](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://www.google.com/search?q=ruby)
 
-<p align="center">
-<details>
-
-<summary><b>Random dev joke</b>: </summary>
-<p align="center">
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
-
-<p align="center">
-
-</details>
-
-
-<details>
-
-<summary><b>Visitors badge</b>: </summary>
-<p align="center">
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
-
-<p align="center">
-</details>
