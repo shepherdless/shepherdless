@@ -41,8 +41,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shepherdless&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shepherdless&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shepherdless&layout=compact&theme=radical)
+
 </p>
 
 
@@ -58,9 +61,7 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/shepherdless/kiki-bot">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shepherdless&repo=kiki-bot&theme=tokyonight&hide_border=true"/>
-  </a>
+[![Kiki-bot](https://github-readme-stats.vercel.app/api/pin/?username=shepherdless&repo=kiki-bot&theme=radical)](https://github.com/shepherdless/kiki-bot)
 </p>
 
 
