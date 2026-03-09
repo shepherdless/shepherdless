@@ -31,18 +31,6 @@
 [![](https://img.shields.io/badge/Electron-171C2D?&style=for-the-badge&logo=electron&logoColor=white)](https://www.google.com/search?q=electronjs)
 [![](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://www.google.com/search?q=ruby)
 
-<details>
-
-<summary><b>GitHub stats</b>: </summary>
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&theme=gotham" alt="shepherdless" />
-<br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shepherdless&hide=css,java,html&theme=gotham">
-
-</details>
-
-<p align="center">
 
 
 <details>
