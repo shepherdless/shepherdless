@@ -38,34 +38,8 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shepherdless&show_icons=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shepherdless&layout=compact&theme=radical)
-
-</p>
-
-
-
 ## 🔥 Contribution Streak
 
 <p align="center">
 	<img src="https://streak-stats.demolab.com/?user=shepherdless&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-
-## 🚀 Featured Project
-
-<p align="center">
-[![Kiki-bot](https://github-readme-stats.vercel.app/api/pin/?username=shepherdless&repo=kiki-bot&theme=radical)](https://github.com/shepherdless/kiki-bot)
-</p>
-
-
-
-<p align="center">
-⭐ From <a href="https://github.com/shepherdless">Axel Grullón</a>
 </p>
