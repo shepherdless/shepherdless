@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Axel%20Grullón&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Axel+Grullón;Software+Engineer;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
