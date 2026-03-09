@@ -10,7 +10,7 @@
 - ⚡ **Fun fact:** I love chocolate 🍫
 - 🌑 Even GitHub **agrees** the dark side is better
 
----
+
 
 ## 🌐 Community
 
@@ -22,7 +22,7 @@
 
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -32,7 +32,7 @@
 
 </p>
 
----
+
 
 ## 📚 Currently Learning
 
@@ -42,7 +42,7 @@
 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -54,7 +54,7 @@
 
 </p>
 
----
+
 
 ## 🔥 Contribution Streak
 
@@ -64,7 +64,7 @@
 
 </p>
 
----
+
 
 ## 🚀 Featured Project
 
@@ -76,7 +76,7 @@
 
 </p>
 
----
+
 
 <p align="center">
 ⭐ From <a href="https://github.com/shepherdless">Axel Grullón</a>
